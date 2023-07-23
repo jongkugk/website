@@ -5,5 +5,5 @@ title: width
 
 To set the width of the table
 
- - Default: `100%`
+ - Default: `80%`
  - Type: `string`
